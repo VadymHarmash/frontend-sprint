@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font: 400 18px/28px Inter, sans-serif;
+    color: #19191C;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, span, ul, li, form, label, input, select, section, button {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+button {
+    padding: 0;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
